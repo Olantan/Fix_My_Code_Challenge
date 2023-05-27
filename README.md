@@ -26,14 +26,14 @@ engineering program that prepares students for careers in the tech industry
 
 using project-based peer learning. For more information, visit
 
-[this link](https://www.alx.com/).
+[this link](https://www.alxafrica.com/).
 
 <p align="center">
 
   <img
 
-    src="http://www.alx.com/alx-logo.png"
+    src="http://www.alxafrica.com/alx-logo.png"
 
-    alt="Alx School logo">
+    alt="Alxafrica School logo">
 
 </p>
